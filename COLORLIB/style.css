@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(2, 151, 35);
+    
+}
+.perant{
+    width: 390px ;
+    height: max-content;
+    background-color: aliceblue;
+    margin-top: 75px;
+    padding: 20px;
+
+}
+.ch h1{
+    color: gray;
+}
+.ch h5 {
+    color: gray;
+    margin: 10px 0;
+}
+.OO{
+    width: 100%;
+    height: 40px;
+    margin: 8px 0 ;
+}
+.IN{
+    width: 100%;
+    height: 120px;
+    margin: 8px 0 15px 0;
+}
+.ch button{
+    width: 100%;
+    height: 40px;
+    margin: 8px 0 15px 0;
+    color: white;
+    background-color: rgb(2, 151, 35);
+    border: none;
+}
+.ch p{
+    color: gray;
+    margin: 5px 0 15px 105px; 
+}
+.ch a{
+    margin-left: 7px;
+}
